@@ -44,3 +44,12 @@ X+Y+4Z<= 900
 
 2-TABU SEARCH
 
+# output
+### BASIC LOCAL SEARCH
+
+![8](https://user-images.githubusercontent.com/97242283/225172815-b5daf2c4-dc30-405d-b14a-876a16ac9eee.jpg)
+### TABU SEARCH
+
+![12](https://user-images.githubusercontent.com/97242283/225172870-37e287ed-a5e0-4476-a32a-458772ee9fc1.jpg)
+
+### We can see that the second metaheuristic (Tabu search) is better because it gives us a greater objective function.
